@@ -1,0 +1,24 @@
+{
+  "name": "reddit_post_getter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyniaN/Reddit_Post_Getter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyniaN/Reddit_Post_Getter/issues"
+  },
+  "homepage": "https://github.com/SyniaN/Reddit_Post_Getter#readme",
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "express": "^4.16.2",
+    "superagent": "^3.8.2"
+  }
+}
